@@ -5,6 +5,7 @@ export { MonthPickerComponent } from './monthpicker.component';
 export { YearPickerComponent } from './yearpicker.component';
 export { DateFormatter } from './date-formatter';
 export { DatepickerConfig } from './datepicker.config';
+export { BsDatepickerInlineConfig } from './bs-datepicker-inline.config';
 
 export { BsDatepickerModule } from './bs-datepicker.module';
 export { BsDatepickerDirective } from './bs-datepicker.component';
